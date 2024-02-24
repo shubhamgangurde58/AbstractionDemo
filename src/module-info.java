@@ -5,5 +5,5 @@
  * @author Lenovo
  *
  */
-module AbstractionDemo {
+module AbstractionDemoStudent {
 }
